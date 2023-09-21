@@ -18,9 +18,10 @@ The objective of this hackathon challenge is to develop an AI-powered solution t
 ## Impact
 The proposed solution can greatly benefit individuals and small businesses in India, who often face challenges with legal documentation due to limited access to legal resources. By simplifying legal documentation, this solution can potentially save time, reduce errors, and increase access to justice. 
 
-## Data: Participants can use publicly available legal databases and resources to train the AI model for document generation. 
+## Data
+Participants can use publicly available legal databases and resources to train the AI model for document generation. 
 
-## Deliverables: 
+## Deliverables 
 1. A working prototype of the AI-powered legal documentation assistant, demonstrating its functionality and ease of use.
 2. A presentation outlining the features and potential impact of the solution, as well as its technical architecture and data requirements.
 3. Code and documentation for the solution, along with instructions for deployment and maintenance.
